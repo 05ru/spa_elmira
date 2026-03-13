@@ -3,7 +3,7 @@ import { Monitor, Printer, Tv, Zap, Armchair, Camera, ShoppingCart, Code, Settin
 const priceCategories = [
   {
     icon: Monitor,
-    title: "🖥 Компьютеры и ПО",
+    title: "Компьютеры и ПО",
     items: [
       { name: "Ноутбуки", price: "от 41 300 ₽" },
       { name: "Системные блоки", price: "от 46 700 ₽" },
@@ -15,7 +15,7 @@ const priceCategories = [
   },
   {
     icon: Printer,
-    title: "🖨 Офисное оборудование",
+    title: "Офисное оборудование",
     items: [
       { name: "МФУ", price: "от 21 400 ₽" },
       { name: "Лазерные принтеры", price: "от 17 300 ₽" },
@@ -25,7 +25,7 @@ const priceCategories = [
   },
   {
     icon: Tv,
-    title: "📺 Аудио и видео",
+    title: "Аудио и видео",
     items: [
       { name: "Телевизоры", price: "от 34 200 ₽" },
       { name: "Саундбары", price: "от 9 900 ₽" },
@@ -34,7 +34,7 @@ const priceCategories = [
   },
   {
     icon: Zap,
-    title: "🔌 Бытовая техника",
+    title: "Бытовая техника",
     items: [
       { name: "Стиральные машины", price: "от 39 900 ₽" },
       { name: "Холодильники", price: "от 44 500 ₽" },
@@ -44,7 +44,7 @@ const priceCategories = [
   },
   {
     icon: Armchair,
-    title: "🪑 Мебель и освещение",
+    title: "Мебель и освещение",
     items: [
       { name: "Офисные кресла", price: "от 12 700 ₽" },
       { name: "Шкафы", price: "от 19 800 ₽" },
@@ -54,7 +54,7 @@ const priceCategories = [
   },
   {
     icon: Camera,
-    title: "📸 Фото и измерительная техника",
+    title: "Фото и измерительная техника",
     items: [
       { name: "Фотоаппараты", price: "от 58 000 ₽" },
       { name: "Оптические приборы", price: "от 6 500 ₽" },
@@ -62,7 +62,7 @@ const priceCategories = [
   },
   {
     icon: ShoppingCart,
-    title: "🛒 Интернет-торговля",
+    title: "Интернет-торговля",
     items: [
       { name: "Доставка", price: "750 ₽" },
       { name: "Бесплатная доставка", price: "от 25 000 ₽" },
@@ -70,7 +70,7 @@ const priceCategories = [
   },
   {
     icon: Code,
-    title: "💻 Разработка ПО",
+    title: "Разработка ПО",
     items: [
       { name: "Лендинг", price: "от 60 000 ₽" },
       { name: "Интернет-магазин", price: "от 145 000 ₽" },
@@ -79,7 +79,7 @@ const priceCategories = [
   },
   {
     icon: Settings,
-    title: "🧠 IT-услуги",
+    title: "IT-услуги",
     items: [
       { name: "Настройка сервера", price: "от 28 000 ₽" },
       { name: "IT-аудит", price: "от 37 000 ₽" },
